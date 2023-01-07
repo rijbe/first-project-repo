@@ -48,3 +48,16 @@
     margin-top: 300px;
     margin-left: 80px;
 }
+.heading-1{
+    font-size: 50px;
+    font-weight: 700px;
+    margin-bottom: 30px;
+}
+.heading-content{
+    justify-content: center;
+    margin-bottom: 30px;
+
+}
+.list{
+    line-height: 30px;
+}
