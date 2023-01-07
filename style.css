@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+.banner{
+    position: relative;
+    
+}
+.banner img{
+    max-width: 100%;
+    height: auto;
+}
+.banner-description{
+    position: absolute;
+    top: 40%;
+    width: 40%;
+    padding: 20px;
+    font-weight: 600px;
+    box-sizing: border-box;
+    color: white;
+    margin-left: 800px;
+    box-sizing: border-box;
+    text-align: left;
+
+    
+}
+.heading{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.btn-primary{
+    width: 120px;
+    height: 33px;
+    border: none;
+    margin-top: 15px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.btn-primary:hover{
+    background-color: teal;
+    color: white;
+}
+.section{
+    margin: 30px 150px;
+    display: flex;
+}
+.section-head{
+    width: 600px;
+    margin-top: 300px;
+    margin-left: 80px;
+}
