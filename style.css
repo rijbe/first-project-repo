@@ -19,7 +19,7 @@
     color: white;
     margin-left: 800px;
     box-sizing: border-box;
-    text-align: left;
+    text-align: right;
 
     
 }
@@ -61,10 +61,6 @@
 .list{
     line-height: 30px;
 }
-section{
-    margin: 50px 150px;
-
-}
 .main{
     display: flex;
     margin-top: 100px;
@@ -85,5 +81,40 @@ section{
 }
 .box-heading{
     margin-top: 20px;
+}
+.alwayes{
+    margin-top: 150px;
+   margin-left: 100px;
+   position: relative;
+}
+.alwayes img{
+    max-width: 100%;
+    height: auto;
+}
+.headding{
+    position: absolute;
+    top: 80px;
+    width: 30%;
+    left: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+/* future section */
+.future{
+    width: 100% auto;
+    height: 400px;
+    background: black;
+    margin-top: 150px;
+    color: white;
+  
+
+}
+.future-section{ 
+    top: 160px;
+    width: 50%;
+    display: flex;
+    margin: 20px;
+   text-align: center;
 }
 
